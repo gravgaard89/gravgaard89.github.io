@@ -1,0 +1,149 @@
+
+
+body
+{
+    /*background:url('http://farm3.staticflickr.com/2832/12303719364_c25cecdc28_b.jpg') fixed;
+    */
+    background: url(bg.jpg) fixed;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+
+.page-header {
+    margin-top: 0;
+}
+
+.panel-body {
+    padding-top: 0;
+}
+
+.featuredImg {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.wrap
+{
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+p.form-title
+{
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 3%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+form
+{
+    width: 250px;
+    margin: 0 auto;
+}
+
+
+form.login input[type="text"]
+{
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px 10px;
+    background: 1;
+    border: 0;
+    border-bottom: 1px solid #FFFFFF;
+    border-radius:7px;
+    outline: 0;
+    font-style: italic;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #8e8e8e;
+    outline: 0;
+}
+
+form.login input[type="submit"]
+{
+    width: 100%;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 1%;
+    outline: 0;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+form.buy input[type="submit"]
+{
+    width: 100%;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    outline: 0;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+form.buy input[type="submit"]:hover
+{
+    transition: background-color 0.5s ease;
+}
+
+form.login input[type="submit"]:hover
+{
+    transition: background-color 0.5s ease;
+}
+
+form.login .forgot-pass-content
+{
+    min-height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+form.login a
+{
+    transition: color 0.5s ease;
+}
+
+form.login a:hover
+{
+    color: #2ecc71;
+}
+
+#btn-buy{
+
+margin-top: 40px;
+margin-bottom: 40 px;
+}
+
+#week-greeting{
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+
+
+
