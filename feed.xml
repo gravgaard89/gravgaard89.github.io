@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Wintersmith's blog</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
+    <title>Lars´ blog</title>
+    <atom:link href="http://gravgaard89.github.io//feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://gravgaard89.github.io/</link>
     <description>Ramblings of an immor(t)al demigod</description>
     <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>README</title>
-      <link>http://localhost:8080/articles/hello-world/</link>
+      <link>http://gravgaard89.github.io//articles/hello-world/</link>
       <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/hello-world/</guid>
+      <guid isPermaLink="true">http://gravgaard89.github.io//articles/hello-world/</guid>
       <author></author>
       <description>&lt;p&gt;XXXXXXXXXXXXXXXXXXXXXXXXXXXXX This is the default blog template with RSS, pagination and an archive. There are other templates available — run &lt;code&gt;wintersmith new --help&lt;/code&gt; to list them.&lt;/p&gt;
 &lt;h2 id=&quot;_repeat-after-me-_-this-is-my-blog-there-are-many-like-it-but-this-one-is-mine-my-blog-is-my-best-friend-it-is-my-life-i-must-master-it-as-i-must-master-my-life-my-blog-without-me-is-useless-without-my-blog-i-am-useless-&quot;&gt;&lt;em&gt;Repeat after me:&lt;/em&gt; This is my blog. There are many like it, but this one is mine. My blog is my best friend. It is my life. I must master it as I must master my life. My blog, without me, is useless. Without my blog, I am useless.&lt;/h2&gt;
