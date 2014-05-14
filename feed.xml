@@ -14,7 +14,7 @@
       <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/hello-world/</guid>
       <author></author>
-      <description>&lt;p&gt;Welcome to your new blog! This is the default blog template with RSS, pagination and an archive. There are other templates available — run &lt;code&gt;wintersmith new --help&lt;/code&gt; to list them.&lt;/p&gt;
+      <description>&lt;p&gt;Velkommen til din nye blog! This is the default blog template with RSS, pagination and an archive. There are other templates available — run &lt;code&gt;wintersmith new --help&lt;/code&gt; to list them.&lt;/p&gt;
 &lt;h2 id=&quot;_repeat-after-me-_-this-is-my-blog-there-are-many-like-it-but-this-one-is-mine-my-blog-is-my-best-friend-it-is-my-life-i-must-master-it-as-i-must-master-my-life-my-blog-without-me-is-useless-without-my-blog-i-am-useless-&quot;&gt;&lt;em&gt;Repeat after me:&lt;/em&gt; This is my blog. There are many like it, but this one is mine. My blog is my best friend. It is my life. I must master it as I must master my life. My blog, without me, is useless. Without my blog, I am useless.&lt;/h2&gt;
 &lt;p&gt;Good, now, the directory structure of your blog is as follows:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;├── config.json               &amp;lt;- site configuration
