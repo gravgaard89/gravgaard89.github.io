@@ -1,4 +1,0 @@
-larsgrav
-========
-
-Til Wintersmith bloggen
