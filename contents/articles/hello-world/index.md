@@ -5,7 +5,7 @@ date: 2013-04-30
 template: article.jade
 ---
 
-Velkommen til din nye blog! This is the default blog template with RSS, pagination and an archive. There are other templates available -- run `wintersmith new --help` to list them.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX This is the default blog template with RSS, pagination and an archive. There are other templates available -- run `wintersmith new --help` to list them.
 
 ## _Repeat after me:_ This is my blog. There are many like it, but this one is mine. My blog is my best friend. It is my life. I must master it as I must master my life. My blog, without me, is useless. Without my blog, I am useless.
 
