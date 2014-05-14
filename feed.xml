@@ -10,9 +10,9 @@
     <language>en</language>
     <item>
       <title>README</title>
-      <link>http://gravgaard89.github.io//articles/hello-world/</link>
+      <link>http://gravgaard89.github.io//articles/1%20update/</link>
       <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">http://gravgaard89.github.io//articles/hello-world/</guid>
+      <guid isPermaLink="true">http://gravgaard89.github.io//articles/1%20update/</guid>
       <author></author>
       <description>&lt;p&gt;XXXXXXXXXXXXXXXXXXXXXXXXXXXXX This is the default blog template with RSS, pagination and an archive. There are other templates available — run &lt;code&gt;wintersmith new --help&lt;/code&gt; to list them.&lt;/p&gt;
 &lt;h2 id=&quot;_repeat-after-me-_-this-is-my-blog-there-are-many-like-it-but-this-one-is-mine-my-blog-is-my-best-friend-it-is-my-life-i-must-master-it-as-i-must-master-my-life-my-blog-without-me-is-useless-without-my-blog-i-am-useless-&quot;&gt;&lt;em&gt;Repeat after me:&lt;/em&gt; This is my blog. There are many like it, but this one is mine. My blog is my best friend. It is my life. I must master it as I must master my life. My blog, without me, is useless. Without my blog, I am useless.&lt;/h2&gt;
@@ -75,9 +75,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </item>
     <item>
       <title>README</title>
-      <link>http://gravgaard89.github.io//articles/hello-world2/</link>
+      <link>http://gravgaard89.github.io//articles/2%20update/</link>
       <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">http://gravgaard89.github.io//articles/hello-world2/</guid>
+      <guid isPermaLink="true">http://gravgaard89.github.io//articles/2%20update/</guid>
       <author></author>
       <description>&lt;p&gt;XXXXXXXXXXXXXXXXXXXXXXXXXXXXX This is the default blog template with RSS, pagination and an archive. There are other templates available — run &lt;code&gt;wintersmith new --help&lt;/code&gt; to list them.&lt;/p&gt;
 &lt;h2 id=&quot;_repeat-after-me-_-this-is-my-blog-there-are-many-like-it-but-this-one-is-mine-my-blog-is-my-best-friend-it-is-my-life-i-must-master-it-as-i-must-master-my-life-my-blog-without-me-is-useless-without-my-blog-i-am-useless-&quot;&gt;&lt;em&gt;Repeat after me:&lt;/em&gt; This is my blog. There are many like it, but this one is mine. My blog is my best friend. It is my life. I must master it as I must master my life. My blog, without me, is useless. Without my blog, I am useless.&lt;/h2&gt;
